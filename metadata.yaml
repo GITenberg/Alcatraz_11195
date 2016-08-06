@@ -1,0 +1,35 @@
+_repo: Alcatraz_11195
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brand, Max
+    aliases:
+    - Faust, Frederick Schiller
+    - Frederick, John
+    birthdate: 1892
+    deathdate: 1944
+    gutenberg_agent_id: '743'
+    url: http://www.gutenberg.org/2009/agents/743
+    wikipedia: http://en.wikipedia.org/wiki/Max_Brand
+description: 'Go to top; Chapter I: Cordova; Chapter II: The Coming of David; Chapter
+  III: Concerning Fighters; Chapter IV: The Strength of the Weak; Chapter V: Retribution;
+  Chapter VI: Freedom; Chapter VII: The Promised Land; Chapter VIII: Murder; Chapter
+  IX: The Stampede; Chapter X: The Thief; Chapter XI: The Failure; Chapter XII: From
+  the Hip; Chapter XIII: The Bargain; Chapter XIV: Strategy; Chapter XV: The King;
+  Chapter XVI: Red Perris: Advocate; Chapter XVII: Invisible Danger; Chapter XVIII:
+  Victory; Chapter XIX: Hervey Takes a Trick; Chapter XX: The Trap Shuts; Chapter
+  XXI: The Battle.'
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Horses -- Fiction'
+- GITenberg
+title: Alcatraz
+url: http://www.gutenberg.org/ebooks/11195
