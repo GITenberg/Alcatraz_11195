@@ -1,5 +1,8 @@
 _repo: Alcatraz_11195
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brand, Max
@@ -19,6 +22,8 @@ description: 'Go to top; Chapter I: Cordova; Chapter II: The Coming of David; Ch
   Chapter XVI: Red Perris: Advocate; Chapter XVII: Invisible Danger; Chapter XVIII:
   Victory; Chapter XIX: Hervey Takes a Trick; Chapter XX: The Trap Shuts; Chapter
   XXI: The Battle.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11195#Alcatraz
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
